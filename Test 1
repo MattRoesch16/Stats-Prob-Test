@@ -1,4 +1,4 @@
-public class Stats-Prob-Test      //this is a testing class for prob and stat
+public class Stats-Prob-Test      //this is a testing class for prob and stat pull request
 {
 public static void main (String[] args)     
 {
